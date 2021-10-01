@@ -1,0 +1,11 @@
+__pycache__/
+playground/
+_build/
+template_python.egg-info/
+.tox/
+tests/.coverage
+*/.mypy_cache
+*/.ipynb_checkpoints
+*/__pycache__
+*/.cov2emacs.log
+tests/benchmarks/__pycache__/*
