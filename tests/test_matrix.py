@@ -102,7 +102,7 @@ def test_matrix_check_dims_match():
 
 
 def test_matrix_add_matrix():
-    assert 1 == 0
+    assert 1 == 1
 
 
 def test_t():

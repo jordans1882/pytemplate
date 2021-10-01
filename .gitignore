@@ -1,7 +1,7 @@
 __pycache__/
 playground/
 _build/
-template_python.egg-info/
+pytemplate.egg-info/
 .tox/
 tests/.coverage
 */.mypy_cache
